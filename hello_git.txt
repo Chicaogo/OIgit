@@ -1,2 +1,6 @@
 hello git!
 I am coming.
+//git add hello_git
+//git commit -m "我随便写写"
+我们现在在改一下这个文档
+来试验一下git
